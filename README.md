@@ -89,8 +89,7 @@ class ThingOne {
 
 Hit each of the following endpoints and create a new tab with a Table View and Detail View Controller
 
-1. [API of Ice and Fire](https://www.anapioficeandfire.com/api/houses)
-2. [Billboard Song API](http://billboard.modulo.site/search/song?q=YOURTERMHERE) (Change "YOURTERMHERE" to a search term of your choice)
-3. [Open Weather API](https://openweathermap.org/current) (Use "Cities within a rectangle zone")
-4. [The Color API](http://www.thecolorapi.com/docs) (Use "Schemes")
-5. [NewsAPI](https://newsapi.org/) (Register for an API Key and select a news source other than the example)
+1. [Billboard Song API](http://billboard.modulo.site/search/song?q=YOURTERMHERE) (Change "YOURTERMHERE" to a search term of your choice)
+2. [Open Weather API](https://openweathermap.org/current) (Use "Cities within a rectangle zone")
+3. [The Color API](http://www.thecolorapi.com/docs) (Use "Schemes")
+4. [NewsAPI](https://newsapi.org/) (Register for an API Key and select a news source other than the example)
